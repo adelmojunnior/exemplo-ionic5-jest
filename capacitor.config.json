@@ -1,6 +1,6 @@
 {
-  "appId": "br.gov.fazenda.receita.irpf",
-  "appName": "irpf",
+  "appId": "br.dominio.exemplo",
+  "appName": "exemplo",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
