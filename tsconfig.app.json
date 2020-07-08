@@ -9,7 +9,7 @@
     "src/polyfills.ts"
   ],
   "include": [
-    "src/**/*.ts",
+    // "src/**/*.ts", Comentado para remover o "WARNING in ../src/setup-jest.ts is part of the TypeScript compilation but it's unused."
     "src/**/*.d.ts"
   ],
   "exclude": [

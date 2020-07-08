@@ -1,6 +1,7 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "emitDecoratorMetadata": true,
     "outDir": "./out-tsc/spec",
     "types": [
       "jest",
@@ -10,6 +11,8 @@
     "allowJs": true,
   },
   "files": [
+    "src/setup-jest.ts",
+    "src/test-config.helper.ts",
     "zone-flags.ts",
     "src/polyfills.ts"
   ],
