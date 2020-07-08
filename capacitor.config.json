@@ -1,0 +1,13 @@
+{
+  "appId": "br.gov.fazenda.receita.irpf",
+  "appName": "irpf",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
